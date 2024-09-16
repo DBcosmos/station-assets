@@ -119,5 +119,12 @@ module.exports = {
       decimals: 6,
       icon: process.env.CF_PAGES_URL + '/img/coins/SYN.png',
     },
+    {
+      token: 'factory/inj1sklcy2px26jj73ffs2f7fmxw77zsts66prrqxr/DRUGS',
+      name: 'DRUGS',
+      symbol: 'DRUGS',
+      decimals: 9,
+      icon: process.env.CF_PAGES_URL + '/img/coins/drugs.png',
+    }
   ],
 }
